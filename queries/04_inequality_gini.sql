@@ -24,7 +24,11 @@ GROUP BY country
 HAVING poverty_change > 0 AND gini_change > 0
 ORDER BY gini_change DESC;
 
-
-
-
 -- Top 10 most unequal countries in 2024 vs 2015?
+SELECT country, 
+ROUND(AVG(CASE WHEN year = 2015 THEN gini_coefficient END), 2) AS gini_2015, 
+ROUND(AVG(CASE WHEN year = 2024 THEN gini_coefficient END), 2) AS gini_2024
+FROM read_csv_auto('data/global_poverty_economic_inequality.csv')
+GROUP BY country
+ORDER BY gini_2024 DESC
+LIMIT 10;
