@@ -1,0 +1,101 @@
+year,region,avg_poverty_rate
+2015,East Asia,5.63
+2016,East Asia,5.68
+2017,East Asia,4.55
+2018,East Asia,4.86
+2019,East Asia,3.64
+2020,East Asia,3.39
+2021,East Asia,2.9
+2022,East Asia,2.61
+2023,East Asia,2.65
+2024,East Asia,2.78
+2015,Europe,2.95
+2016,Europe,1.93
+2017,Europe,1.9
+2018,Europe,1.5
+2019,Europe,1.13
+2020,Europe,0.91
+2021,Europe,0.71
+2022,Europe,0.65
+2023,Europe,0.58
+2024,Europe,0.52
+2015,Europe/Asia,8.78
+2016,Europe/Asia,9.08
+2017,Europe/Asia,7.91
+2018,Europe/Asia,9.34
+2019,Europe/Asia,7.86
+2020,Europe/Asia,6.09
+2021,Europe/Asia,4.68
+2022,Europe/Asia,4.43
+2023,Europe/Asia,6.63
+2024,Europe/Asia,5.65
+2015,Latin America & Caribbean,18.12
+2016,Latin America & Caribbean,17.53
+2017,Latin America & Caribbean,16.64
+2018,Latin America & Caribbean,15.91
+2019,Latin America & Caribbean,14.08
+2020,Latin America & Caribbean,12.19
+2021,Latin America & Caribbean,14.56
+2022,Latin America & Caribbean,11.95
+2023,Latin America & Caribbean,11.57
+2024,Latin America & Caribbean,10.02
+2015,Middle East & North Africa,34.05
+2016,Middle East & North Africa,34.46
+2017,Middle East & North Africa,34.68
+2018,Middle East & North Africa,34.61
+2019,Middle East & North Africa,31.81
+2020,Middle East & North Africa,31.97
+2021,Middle East & North Africa,31.52
+2022,Middle East & North Africa,32.01
+2023,Middle East & North Africa,27.72
+2024,Middle East & North Africa,33.04
+2015,North America,2.43
+2016,North America,2.53
+2017,North America,1.94
+2018,North America,1.35
+2019,North America,1.11
+2020,North America,0.91
+2021,North America,0.71
+2022,North America,0.57
+2023,North America,0.56
+2024,North America,0.54
+2015,Oceania,2.37
+2016,Oceania,2.37
+2017,Oceania,1.8
+2018,Oceania,1.78
+2019,Oceania,1.39
+2020,Oceania,1.04
+2021,Oceania,0.71
+2022,Oceania,0.59
+2023,Oceania,0.5
+2024,Oceania,0.54
+2015,South Asia,32.15
+2016,South Asia,31.04
+2017,South Asia,29.67
+2018,South Asia,30.9
+2019,South Asia,30.76
+2020,South Asia,28.14
+2021,South Asia,29.07
+2022,South Asia,28.14
+2023,South Asia,27.3
+2024,South Asia,27.41
+2015,Southeast Asia,18.51
+2016,Southeast Asia,21.88
+2017,Southeast Asia,20.68
+2018,Southeast Asia,20.38
+2019,Southeast Asia,17.86
+2020,Southeast Asia,16.04
+2021,Southeast Asia,18.45
+2022,Southeast Asia,17.1
+2023,Southeast Asia,15.45
+2024,Southeast Asia,15.1
+2015,Sub-Saharan Africa,40.51
+2016,Sub-Saharan Africa,39.57
+2017,Sub-Saharan Africa,39.52
+2018,Sub-Saharan Africa,38.46
+2019,Sub-Saharan Africa,38.62
+2020,Sub-Saharan Africa,37.06
+2021,Sub-Saharan Africa,36.94
+2022,Sub-Saharan Africa,38.28
+2023,Sub-Saharan Africa,36.21
+2024,Sub-Saharan Africa,35.84
