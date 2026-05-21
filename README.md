@@ -55,9 +55,9 @@ global-poverty-analysis/
 
 ---
 
-## 📖 Read the Full Report
-
-[The World Got Less Poor — But Nobody Got More Equal](report/blog_post.md)
+## 📖 Read the Full Report[
+](https://github.com/SUKHRAJSINGH7/global-poverty-analysis/blob/main/report/Blog_Post.md)
+[The World Got Less Poor — But Nobody Got More Equal]
 
 A deep dive into what the data actually shows about COVID's impact,
 regional inequality, and the countries still struggling in 2024.
