@@ -78,8 +78,6 @@ regional inequality, and the countries still struggling in 2024.
 
 ## 🚀 How to Run the Queries
 
-## 🚀 How to Run the Queries
-
 1. Install [DuckDB](https://duckdb.org/)
 2. Clone this repo
 3. Open terminal in your project folder and run:
