@@ -1,4 +1,4 @@
-# 🌍 Global Poverty & COVID-19 Impact Analysis (2015–2024)
+# 🌍 SQL + Tableau analysis of global poverty & COVID-19 impact across 40 countries (2015–2024
 
 > How COVID-19 reversed a decade of progress — and what the data reveals about inequality, recovery, and the world's most vulnerable nations.
 
