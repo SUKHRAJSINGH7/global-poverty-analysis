@@ -72,18 +72,24 @@ regional inequality, and the countries still struggling in 2024.
 - 10 years of data (2015–2024)
 - 25 economic and social indicators
 
-> Raw CSV not included in this repo. Download from Kaggle and place in `/data/` to run the SQL queries locally.
+> All cleaned and analysis-ready CSV files are included in `/data/exports/` — no downloads required.
 
 ---
 
 ## 🚀 How to Run the Queries
 
-1. Download the dataset from Kaggle
-2. Place the CSV in the `/data/` folder
-3. Install [DuckDB](https://duckdb.org/)
-4. Run any `.sql` file from the `/queries/` folder:
+## 🚀 How to Run the Queries
+
+1. Install [DuckDB](https://duckdb.org/)
+2. Clone this repo
+3. Open terminal in your project folder and run:
 
 ```bash
 duckdb
+```
+Then run any query file:
+
+```sql
 .read queries/01_overview.sql
 ```
+All data is already in `/data/exports/` — ready to go.
